@@ -36,9 +36,5 @@ This is my personal developer portfolio built with **React + Vite**. It showcase
 
 ---
 
-## 📸 Screenshots
 
-> Include screenshots in `/public/screens/` and reference like below:
-```md
-![Hero Section](public/screens/hero.png)
-![Projects Modal](public/screens/modal.png)
+
