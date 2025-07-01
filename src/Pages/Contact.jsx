@@ -43,7 +43,7 @@ const Contact = () => {
   };
 
   return (
-    <div id="contact" className="max-w-7xl px-10 mx-auto mt-16 mb-8 grid grid-cols-1 lg:grid-cols-2 gap-12">
+    <div id="contact" className="max-w-7xl px-10 mx-auto mt-16 mb-8 grid grid-cols-1 lg:grid-cols-2 gap-12 overflow-x-hidden">
       {/* Left Info */}
       <div className="space-y-6" data-aos="fade-right">
         <h2 className="text-3xl font-bold text-gray-800 border-b-4 border-green-400 inline-block pb-2">

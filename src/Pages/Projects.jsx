@@ -62,7 +62,7 @@ const Projects = () => {
   };
 
   return (
-    <div id='projects' className="max-w-7xl mx-auto px-10 mt-20">
+    <div id='projects' className="max-w-7xl mx-auto px-10 mt-20 overflow-x-hidden">
       <h2 className="text-3xl md:text-4xl font-bold text-gray-800 border-b-4 border-green-400 inline-block pb-2 mb-10" data-aos="fade-up">
         Projects
       </h2>
